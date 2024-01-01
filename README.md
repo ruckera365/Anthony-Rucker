@@ -5,3 +5,5 @@ I'm Anthony Rucker, based in Houston. My journey into cybersecurity has been fue
 In addition to my cybersecurity expertise, I bring substantial experience in UI/UX design and web development. This diverse skill set allows me to approach cybersecurity challenges with both technical proficiency and a creative perspective. I'm dedicated to continually enhancing my knowledge and contributing to the ever-evolving realm of cybersecurity.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruckera365)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruckera365&layout=compact)
